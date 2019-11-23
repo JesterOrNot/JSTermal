@@ -1,0 +1,22 @@
+{
+  "name": "jstermal",
+  "version": "1.0.0",
+  "description": "Terminal made with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesterOrNot/JSTermal.git"
+  },
+  "keywords": [
+    "terminal"
+  ],
+  "author": "Sean Hellum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesterOrNot/JSTermal/issues"
+  },
+  "homepage": "https://github.com/JesterOrNot/JSTermal#readme"
+}
