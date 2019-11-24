@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JesterOrNot/JSTermal/issues"
   },
-  "homepage": "https://github.com/JesterOrNot/JSTermal#readme"
+  "homepage": "https://github.com/JesterOrNot/JSTermal#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
